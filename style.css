@@ -18,6 +18,10 @@ nav{
     background-color: #2c3e51;
 }
 
+nav ul{
+    gap: 2vw;
+}
+
 /* HEADER - JUMBO */
 .my_jumbo{
     background-color: #19bc9d;
