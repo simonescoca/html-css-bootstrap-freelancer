@@ -41,6 +41,21 @@ nav{
     background-color: #19bc9d;
 }
 
+.my_about-wrapper{
+    width: 65%;
+    margin: 0 auto;
+}
+
+.my_download{
+    height: 25px;
+    vertical-align: bottom;
+}
+
+.my_button:hover{
+    background-color: white;
+    color: #19bc9d;
+}
+
 /* MAIN - CONTACT ME */
 
 /* FOOTER - REFERENCES */
