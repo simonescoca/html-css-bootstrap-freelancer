@@ -41,7 +41,7 @@ nav{
     background-color: #19bc9d;
 }
 
-.my_about-wrapper{
+.my_wrapper{
     width: 65%;
     margin: 0 auto;
 }
@@ -57,7 +57,24 @@ nav{
 }
 
 /* MAIN - CONTACT ME */
+.my_text-dark{
+    color: #2c3e51;
+}
 
+input, textarea{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.my_button-form{
+    background-color: #19bc9d;
+    color: white;
+}
+
+.my_button-form:hover{
+    border: 1px solid rgb(95, 95, 95);
+}
 /* FOOTER - REFERENCES */
 .my_references{
     background-color: #3a546d;
@@ -68,9 +85,9 @@ nav{
     background-color: #2c3e51;
 }
 
-[class *= "col"]{
+/* [class *= "col"]{
     border: 1px solid red;
-}
+} */
 
 nav [class *= "col-"]{
     height: 80px;
