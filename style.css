@@ -86,6 +86,14 @@ textarea:focus{
     background-color: #3a546d;
 }
 
+.my_icons{
+    width: 15%;
+}
+
+.my_icon{
+    display: block;
+}
+
 /* FOOTER - COPYRIGHT */
 .my_copyright{
     background-color: #2c3e51;
