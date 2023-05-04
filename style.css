@@ -61,10 +61,16 @@ nav{
     color: #2c3e51;
 }
 
-input, textarea{
+input,
+textarea{
     width: 100%;
     border: none;
     border-bottom: 1px solid gray;
+}
+
+input:focus,
+textarea:focus{
+    outline: none;
 }
 
 .my_button-form{
